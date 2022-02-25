@@ -7,6 +7,7 @@
 
 ### Recent Research
 #### 🎙 Speech and Singing Processing
+1. [Learning the Beauty in Songs: Neural Singing Voice Beautifier](https://neuralsvb.github.io), **Jinglin Liu**, Chengxi Li, Yi Ren, Zhiying Zhu, Zhou Zhao, ACL 2022, Zhejiang University
 1. [DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446), **Jinglin Liu**, Chengxi Li, Yi Ren, Feiyang Chen, Zhou Zhao, AAAI 2022, Zhejiang University
 1. [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://proceedings.neurips.cc/paper/2021/hash/748d6b6ed8e13f857ceaa6cfbdca14b8-Abstract.html), Yi Ren, **Jinglin Liu**, Zhou Zhao, NeurIPS 2021, Zhejiang University
 1. [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), Yi Ren, **Jinglin Liu**, Xu Tan, Chen Zhang, Qin Tao, Zhou Zhao, Tie-Yan Liu, ACL 2020, Zhejiang University & Microsoft Research Asia
